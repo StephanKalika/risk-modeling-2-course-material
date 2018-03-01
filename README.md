@@ -1,4 +1,4 @@
-# risk-modelling-2
+# risk-modeling-2
 
 **Course Description and Objective:** This course is designed to train the participants in evaluating and managing risks using advanced financial models. Most ofthe course deals with financial risks. It aims to provide the participants a solid background to identify various risks in the financial markets and to acquire the analytical and programming abilities to analyze related risks in different financial settings. 
 
